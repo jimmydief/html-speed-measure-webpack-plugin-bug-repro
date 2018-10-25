@@ -1,5 +1,4 @@
 {
-	"main": "index.js",
 	"devDependencies": {
 		"handlebars": "4.0.12",
 		"handlebars-loader": "1.7.0",
